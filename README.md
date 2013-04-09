@@ -1,0 +1,1 @@
+A click-through bot for SimCity Social on Facebook
